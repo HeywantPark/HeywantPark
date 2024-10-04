@@ -20,9 +20,6 @@
 - Open-source projects related to **backend systems** and **API development**.
 - Exciting projects involving **data analysis** and **AI**.
 
-## 📫 How to reach me
-- Feel free to reach out via email or connect on [LinkedIn](https://www.linkedin.com).
-
 ## 😄 Pronouns
 - She/Her
 
